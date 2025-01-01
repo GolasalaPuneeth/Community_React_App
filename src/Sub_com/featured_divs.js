@@ -36,8 +36,7 @@ function FeaturedDivs() {
               y="0"
               width="100%"
               height="100%"
-              href="https://img.freepik.com/premium-vector/vector-illustration-chhatrapati-shivaji-maharaj-chhatrapati-shivaji-maharaj-jayanti_723055-1944.jpg
-"
+              href="https://img.freepik.com/premium-vector/vector-illustration-chhatrapati-shivaji-maharaj-chhatrapati-shivaji-maharaj-jayanti_723055-1944.jpg?w=500&h=500"
               preserveAspectRatio="xMidYMid slice"
             />
             
