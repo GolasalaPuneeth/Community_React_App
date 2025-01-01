@@ -41,9 +41,6 @@ function FeaturedDivs() {
               preserveAspectRatio="xMidYMid slice"
             />
             
-            <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">
-              500x500
-            </text>
           </svg>
         </div>
       </div>
