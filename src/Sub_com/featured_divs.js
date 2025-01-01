@@ -31,6 +31,16 @@ function FeaturedDivs() {
               height="100%"
               fill="var(--bs-secondary-bg)"
             ></rect>
+            <image
+              x="0"
+              y="0"
+              width="100%"
+              height="100%"
+              href="https://img.freepik.com/premium-vector/vector-illustration-chhatrapati-shivaji-maharaj-chhatrapati-shivaji-maharaj-jayanti_723055-1944.jpg
+"
+              preserveAspectRatio="xMidYMid slice"
+            />
+            
             <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">
               500x500
             </text>
