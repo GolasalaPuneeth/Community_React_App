@@ -58,7 +58,7 @@ function carousel_slide_com() {
           </svg>
           <div className="container">
             <div className="carousel-caption text-start">
-              <h1>Example headline.</h1>
+              <h1>Example headline.123</h1>
               <p className="opacity-75">
                 Some representative placeholder content for the first slide of
                 the carousel.
