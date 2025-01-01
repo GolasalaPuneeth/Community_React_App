@@ -78,7 +78,7 @@ function FeaturedDivs() {
               y="0"
               width="100%"
               height="100%"
-              href="https://img.freepik.com/free-photo/crowded-scene-indian-city_23-2151765624.jpg?h=500&w=500"
+              href="https://i.pinimg.com/originals/c0/71/d2/c071d2bd01bbeabdb0897a38db8b4da8.gif?h=500&w=500"
               preserveAspectRatio="xMidYMid slice"
             />
           </svg>
